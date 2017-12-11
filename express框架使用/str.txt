@@ -1,0 +1,7 @@
+${req.url} ${req.methed} ${new Date().toLocaleString()}
+${req.url} ${req.methed} ${new Date().toLocaleString()}
+/index.html undefined 2017-12-09 13:50:00
+/movie.html undefined 2017-12-09 13:51:44
+2017-12-09 14:01:39   GET   /
+2017-12-09 14:01:40   GET   /favicon.ico
+2017-12-09 14:01:47   GET   /index.html
